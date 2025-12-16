@@ -5,7 +5,7 @@ A comprehensive machine learning pipeline for breast cancer biomarker classifica
 ## 📋 Overview
 
 This project implements an end-to-end classification pipeline that:
-- Addresses severe class imbalance (7.14:1 ratio)
+- Addresses severe class imbalance
 - Compares multiple augmentation strategies
 - Evaluates three different ML algorithms
 - Achieves **98.89% ROC-AUC** with optimal configuration
