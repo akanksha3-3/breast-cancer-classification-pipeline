@@ -184,10 +184,4 @@ Areas for improvement:
 
 Created for biomarker classification research and education.
 
-## 🙏 Acknowledgments
-
-- Breast Cancer Wisconsin Dataset (Diagnostic) - UCI Machine Learning Repository
-- scikit-learn and imbalanced-learn communities
-- XGBoost development team
-
 ---
